@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/mrbesar47.github.io/portfolio/static/css/main.73efbf52.chunk.css",
-    "main.js": "/mrbesar47.github.io/portfolio/static/js/main.e9127e94.chunk.js",
-    "main.js.map": "/mrbesar47.github.io/portfolio/static/js/main.e9127e94.chunk.js.map",
-    "runtime-main.js": "/mrbesar47.github.io/portfolio/static/js/runtime-main.307d87bc.js",
-    "runtime-main.js.map": "/mrbesar47.github.io/portfolio/static/js/runtime-main.307d87bc.js.map",
+    "main.css": "/mrbesar47.github.io/portfolio/static/css/main.0e489c22.chunk.css",
+    "main.js": "/mrbesar47.github.io/portfolio/static/js/main.c822d2ce.chunk.js",
+    "main.js.map": "/mrbesar47.github.io/portfolio/static/js/main.c822d2ce.chunk.js.map",
+    "runtime-main.js": "/mrbesar47.github.io/portfolio/static/js/runtime-main.cae9cb48.js",
+    "runtime-main.js.map": "/mrbesar47.github.io/portfolio/static/js/runtime-main.cae9cb48.js.map",
     "static/js/2.e071bb75.chunk.js": "/mrbesar47.github.io/portfolio/static/js/2.e071bb75.chunk.js",
     "static/js/2.e071bb75.chunk.js.map": "/mrbesar47.github.io/portfolio/static/js/2.e071bb75.chunk.js.map",
-    "static/js/3.e511dfbf.chunk.js": "/mrbesar47.github.io/portfolio/static/js/3.e511dfbf.chunk.js",
-    "static/js/3.e511dfbf.chunk.js.map": "/mrbesar47.github.io/portfolio/static/js/3.e511dfbf.chunk.js.map",
+    "static/js/3.2571960b.chunk.js": "/mrbesar47.github.io/portfolio/static/js/3.2571960b.chunk.js",
+    "static/js/3.2571960b.chunk.js.map": "/mrbesar47.github.io/portfolio/static/js/3.2571960b.chunk.js.map",
     "index.html": "/mrbesar47.github.io/portfolio/index.html",
-    "static/css/main.73efbf52.chunk.css.map": "/mrbesar47.github.io/portfolio/static/css/main.73efbf52.chunk.css.map",
+    "static/css/main.0e489c22.chunk.css.map": "/mrbesar47.github.io/portfolio/static/css/main.0e489c22.chunk.css.map",
     "static/js/2.e071bb75.chunk.js.LICENSE.txt": "/mrbesar47.github.io/portfolio/static/js/2.e071bb75.chunk.js.LICENSE.txt",
     "static/media/besar.242d9d02.jpg": "/mrbesar47.github.io/portfolio/static/media/besar.242d9d02.jpg",
     "static/media/logo.6ce24c58.svg": "/mrbesar47.github.io/portfolio/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.307d87bc.js",
+    "static/js/runtime-main.cae9cb48.js",
     "static/js/2.e071bb75.chunk.js",
-    "static/css/main.73efbf52.chunk.css",
-    "static/js/main.e9127e94.chunk.js"
+    "static/css/main.0e489c22.chunk.css",
+    "static/js/main.c822d2ce.chunk.js"
   ]
 }
